@@ -13,7 +13,7 @@
 
 ### [Putting the "Native" in React Native](https://www.promptworks.com/blog/writing-native-modules-for-react-native)
 React Native 原生写法介绍  
-<img src="./image/putting_the_native_in_rn.png" alt="Putting the "Native" in React Native" width="200">
+<img src="./image/putting_the_native_in_rn.png" alt="Putting the 'Native' in React Native" width="200">
 
 ### [React-Native Native Module In Practise](https://xeodou.me/2015/11/03/write-a-react-native-native-module/)
 React Native Java项目生成  
