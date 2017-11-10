@@ -18,3 +18,7 @@ React Native 原生写法介绍
 ### [React-Native Native Module In Practise](https://xeodou.me/2015/11/03/write-a-react-native-native-module/)
 React Native Java项目生成  
 <img src="./image/rn_native_module_in_practise.png" alt="React-Native Native Module In Practise" width="200">
+
+### [npm.taobao.org/mirrors](https://npm.taobao.org/mirrors/)
+NPM 淘宝镜像  
+<img src="./image/taobao-mirrors.jpg" alt="NPM 淘宝镜像" width="200">
