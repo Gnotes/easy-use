@@ -26,3 +26,7 @@ NPM 淘宝镜像
 ### [codepen](https://codepen.io/)
 CSS JS实时编辑效果  
 <img src="./image/codepen-io.jpg" alt="CSS JS实时编辑效果" width="200">
+
+### [Linux命令查询](http://wangchujiang.com/linux-command/)
+Linux命令收集查询  
+<img src="./image/linux.jpg" alt="Linux命令收集查询" width="200">
