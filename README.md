@@ -30,3 +30,7 @@ CSS JS实时编辑效果
 ### [Linux命令查询](http://wangchujiang.com/linux-command/)
 Linux命令收集查询  
 <img src="./image/linux.jpg" alt="Linux命令收集查询" width="200">
+
+### [CSS 缓动函数速查表](http://easings.net/zh-cn)
+CSS 缓动函数速查表  
+<img src="./image/css-animate.jpg" alt="CSS 缓动函数速查表" width="200">
