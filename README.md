@@ -34,3 +34,7 @@ Linux命令收集查询
 ### [CSS 缓动函数速查表](http://easings.net/zh-cn)
 CSS 缓动函数速查表  
 <img src="./image/css-animate.jpg" alt="CSS 缓动函数速查表" width="200">
+
+### [HTML5 & CSS3 属性查询](http://html5please.com/)
+HTML5 & CSS3 属性查询
+<img src="./image/html5please.png" alt="HTML5 & CSS3 属性查询" width="200">
